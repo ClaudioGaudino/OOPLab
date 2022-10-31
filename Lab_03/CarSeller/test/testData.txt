@@ -1,0 +1,16 @@
+Lancia
+Delta S4
+1985
+55000
+Audi
+Sport Quattro
+1984
+35000
+Toyota
+Supra
+1998
+25000
+Honda
+Civic Type R
+2022
+45000
